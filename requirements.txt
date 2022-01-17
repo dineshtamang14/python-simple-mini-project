@@ -3,9 +3,12 @@ certifi==2021.10.8
 charset-normalizer==2.0.10
 google==3.0.0
 idna==3.3
+PyPDF2==1.26.0
 pypng==0.0.21
 PyQRCode==1.2.1
 pyshorteners==1.0.1
+pyttsx3==2.90
+pytube==11.0.2
 requests==2.27.1
 soupsieve==2.3.1
 urllib3==1.26.8
