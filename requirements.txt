@@ -3,6 +3,8 @@ certifi==2021.10.8
 charset-normalizer==2.0.10
 google==3.0.0
 idna==3.3
+pypng==0.0.21
+PyQRCode==1.2.1
 pyshorteners==1.0.1
 requests==2.27.1
 soupsieve==2.3.1
